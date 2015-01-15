@@ -7,7 +7,7 @@
 }
 
 .sponsors {
-	border-bottom: 4px solid #FF910A;
+	border-bottom: 4px solid #AA4400;
 }
 
 body {
@@ -17,8 +17,8 @@ body {
 }
 
 .nav-justified {
-  background-color: #FF910A;
-  border: 1px solid #FF910A;
+  background-color: #AA4400;
+  border: 1px solid #AA4400;
   border-radius: 5px;
 }
 .nav-justified > li > a {
@@ -28,21 +28,21 @@ body {
   font-weight: bold;
   color: #fff;
   text-align: center;
-  background-color: #FF910A; /* Old browsers */
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#FF910A), to(#FF910A));
-  background-image: -webkit-linear-gradient(top, #FF910A 0%, #FF910A 100%);
-  background-image:      -o-linear-gradient(top, #FF910A 0%, #FF910A 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(top), color-stop(0%, #FF910A), to(#FF910A));
-  background-image:         linear-gradient(top, #FF910A 0%, #FF910A 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF910A', endColorstr='#FF910A',GradientType=0 ); /* IE6-9 */
+  background-color: #AA4400; /* Old browsers */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#AA4400), to(#AA4400));
+  background-image: -webkit-linear-gradient(top, #AA4400 0%, #AA4400 100%);
+  background-image:      -o-linear-gradient(top, #AA4400 0%, #AA4400 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(top), color-stop(0%, #AA4400), to(#AA4400));
+  background-image:         linear-gradient(top, #AA4400 0%, #AA4400 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#AA4400', endColorstr='#AA4400',GradientType=0 ); /* IE6-9 */
   background-repeat: repeat-x; /* Repeat the gradient */
-  border-bottom: 1px solid #FF910A;
+  border-bottom: 1px solid #AA4400;
 }
 .nav-justified > .active > a,
 .nav-justified > .active > a:hover,
 .nav-justified > .active > a:focus {
   background-color: #fff;
-  background-image: #FF910A;
+  background-image: #AA4400;
   color: #333333;
 }
 .nav-justified > li:first-child > a {
@@ -58,7 +58,7 @@ body {
     max-height: 52px;
   }
   .nav-justified > li > a {
-    border-right: 1px solid #FF910A;
+    border-right: 1px solid #AA4400;
     border-left: 1px solid #fff;
   }
   .nav-justified > li:first-child > a {
