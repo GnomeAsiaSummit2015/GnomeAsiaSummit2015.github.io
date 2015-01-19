@@ -1,7 +1,9 @@
 * {
 	font-family: 'Lato', sans-serif;
 }
- 
+ .jumbotron img{
+	max-width:100%;
+ }
 .header-jumbotron {
 	margin-top: 30px;
 }
@@ -15,15 +17,14 @@ body {
 	background-image: url(../img/header_bg_2015.png);
 	background-repeat: repeat-x;
 }
-
 .nav-justified {
   background-color: #AA4400;
   border: 1px solid #AA4400;
   border-radius: 5px;
 }
 .nav-justified > li > a {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin-bottom: 0;
   font-weight: bold;
   color: #fff;
@@ -55,7 +56,7 @@ body {
 
 @media (min-width: 768px) {
   .nav-justified {
-    max-height: 52px;
+    max-height: 32px;
   }
   .nav-justified > li > a {
     border-right: 1px solid #AA4400;
