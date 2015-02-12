@@ -10,7 +10,7 @@ WEB
 
 Page
 * Volunteer, kurang halaman pendaftaran via gdoc
-hari ini!! * Scheedule, Kosongkan sesuai dengan proposal
+V * Scheedule, Kosongkan sesuai dengan proposal
 * Register, Bikin evenbrite, pendaftaran dan pembayaran.
 * Location/Venue, butuh foto yang ada dan keterangan. Upload
 * Location/Travel, fix harga pesawat (base on wiki)
