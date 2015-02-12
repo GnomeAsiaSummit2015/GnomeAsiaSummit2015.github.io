@@ -1,3 +1,26 @@
+WEB
+
+* Header Page
+* Favicon.ico
+* Schedule
+* Peta
+* Travel (harga tiket)
+* Hotel (detail hotel, cp dll)
+* Eat
+
+Page
+* Volunteer, kurang halaman pendaftaran via gdoc
+hari ini!! * Scheedule, Kosongkan sesuai dengan proposal
+* Register, Bikin evenbrite, pendaftaran dan pembayaran.
+* Location/Venue, butuh foto yang ada dan keterangan. Upload
+* Location/Travel, fix harga pesawat (base on wiki)
+* Menambahkan Location/Visa, base on wiki
+* Location/map, gambar fix dari aris
+* Location/Accomodation, detail hotel
+* Location, butuh foto lokasi dan keterangan. upload
+V * Live, check sample
+V * About Gnome, Add previuos years
+
 *Tips:
 Cara nukar uang
 Install Kommuta/Train di Smartphone
@@ -8,7 +31,7 @@ Peta UI dan sekitar.
 Getting to Depok
 From anywhere else in Indonesia
 
-Travelling from elsewhere in India to Depok, West Java by air, train or road.
+Travelling from elsewhere in Indonesia to Depok, West Java by air, train or road.
 
 Bus
 To Terminal Depok
@@ -129,7 +152,16 @@ Pune boasts of a wide range of cuisines ranging from international food (like It
 There are various restaurants and eateries near the conference venue as well as accomodation, which are hygenic, tasty and economical.
 
 Weather
-  Summers begin March to July. Though not as hot as Northern parts of India, the daytimes are very sunny with dry heat.
-  Early mornings are pleasant and evenings after six, cool and breezy.
-  Temperature: 23*c(min) to 35*c(max) [Approximate values]
-  Rainfall: Expected (Monsoon starts end of June/Start of July) 
+
+Early mornings are pleasant but afternoon is hot enough.
+Temperature: 24,3*c(min) to 33*c(max) [Approximate values]
+Rainfall: Expected October-March.
+Humidity: 77% (Average)
+
+Information Contact
+Seksi Sibuk
+Nama
+HP/Wasap
+Email
+HT
+
