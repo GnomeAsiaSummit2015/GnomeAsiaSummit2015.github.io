@@ -8,14 +8,18 @@ WEB
 * Hotel (detail hotel, cp dll)
 * Eat
 
+Menu
+* Schedule
+* Live
+
 Page
 * Volunteer, kurang halaman pendaftaran via gdoc
 V * Scheedule, Kosongkan sesuai dengan proposal
 * Register, Bikin evenbrite, pendaftaran dan pembayaran.
 * Location/Venue, butuh foto yang ada dan keterangan. Upload
 * Location/Travel, fix harga pesawat (base on wiki)
-* Menambahkan Location/Visa, base on wiki
-* Location/map, gambar fix dari aris
+V * Menambahkan Location/Visa, base on wiki
+Nunggu!! * Location/map, gambar fix dari aris
 * Location/Accomodation, detail hotel
 * Location, butuh foto lokasi dan keterangan. upload
 V * Live, check sample
@@ -133,17 +137,38 @@ Getting around
 KRL and call-taxi services are abundant and available. The public bus service is not very good, but we will arrange for transportation for conference speakers and organizers.
 
 Taxi services in Depok:
-
     Blue Bird: +62 21 79171234
     Express: +62 21 26509000
 
 Stay
 
 Hotel                   Location    Distance from venue     Price       Internet
-Santika Depok           Depok       3km                     $50-$60     Yes
+Santika Depok           Depok       3km                     $50-$90     Yes
 Margonda Residence 3    Depok       2km                     $25-$35     Yes
 Bumi Wiyata Hotel       Depok       2km                     $30-$45     Yes
 Rumah THE PRIANGAN      Depok       4km                     $20-$35     Yes
+
+Hotel Santika Depok
+Jalan Margonda Raya No.88, Depok
+Foto
+
+Located in Depok, just 3km from venue. Rate US$50-$90.
+You can walk to venue or just use train(KRL) for st Depok Baru and drop in St Pondok Cina.
+
+Phone: +62 21 7721 9291
+Email: e-commerce@depok.santika.com
+Website: http://santika.com/santika-depok
+
+Hotel Bumi Wiyata
+Jl. Margonda Raya Depok 16423 Depok
+Foto
+
+Located in Depok, just 3km from venue. Rate US$30-$45 
+
+Phone: +62-21-7778040 / 49661749
+Email: bmwiyata@hotelbumiwiyata.com
+Website: http://hotelbumiwiyata.com
+
 
 Eat
 
