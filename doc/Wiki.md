@@ -1,3 +1,128 @@
+RoadShow
+
+Rabu, Jam 11 -14
+di Fasilkom UI
+
+Materi: Maleo di BlankOn Linux
+Pemateri: Kukuh & Estu
+Bawa CD BlankOn
+
+Kontak Mbak Indah
+
+
+Soundsystem
+- Speksifikasi
+- 
+
+Tanya UI (untuk 4 kelas)
+- Sound
+- Kursi
+- Proyektor
+- Kaos
+
+Kirim selebaran pameran.
+
+-------
+tas etnik
+kaos enak
+iklan sponsor
+gelang, seperti di foto.
+-- name tag ---
+
+peer RAB
+- 100rbu
+- 200rbu
+--------
+moviagram :)))
+--------
+peta, :D
+———————————-----------------------------------------------------
+Persiapan GNOME.ASIA
+
+- roadshow bali.surabaya,jogja,semarang,bandung. (kampus)
+
+* kontak para calon pelaksana lokal
+* cari ide, isi kegiatan apa
+- bisa numpang
+- bisa inisiatif dewe
+* Mencari pembicara,
+* koordinasi lapangan.
+
+* Bandung
+- Kapan =
+- Dimana = BDV
+- Pembicara =
+- Tema dan Materi =
+- PJ = | Dhio
+- Peserta
+
+* Surabaya | Cangkrukan
+- Kapan =
+- Dimana =
+- Pembicara =
+- Tema dan Materi =
+- PJ = Kukuh | Darian
+- Peserta = 50
+
+* Jogja | Malioboro, KPLI Jogja
+- Kapan = Sabtu, 21 Maret 2015
+- Dimana = JDV
+- Pembicara = | Dhio | JS
+- Tema dan Materi =
+- PJ = | Pipin
+- Peserta = 50-70
+
+* Jakarta
+- Kapan =
+- Dimana = Traveloka/Detik/UI
+- Pembicara =
+- Tema dan Materi =
+- PJ = | salim
+- Peserta = 25-50
+
+* Bali
+- Kapan =
+- Dimana = Kampus Stikom Bali
+- Pembicara =
+- Tema dan Materi =
+- PJ = | 
+
+-----------------------------------------------------------------
+
+- Kontak sponsor kereta
+* bagaimana pesan kereta rombongan, | kontak rere
+
+- Kontak sponsor mobil panitia
+* harga diskon
+
+- Sponsor makanan
+* Sponsor air mineral 1500botol
+* Sponsor katering.
+
+- Sponsor SeminarKit
+
+- sponsor kaos - V
+* cetak dimana, jumlah berapa. untuk siapa.
+* harga proposalnya berapa,
+
+- Kontak media
+* Radio, blog, liputan kampus.
+
+- Acara
+bagaimana konsep,
+jadwal acara,
+pemandu, translator
+hiburan, kelas band (oleh pendekar).
+
+- Stand Pameran -
+* persewaan skat pameran
+* pengisi pameran
+* proposal pameran <--- ini penting,
+* harga slot pameran
+* butuh denah lokasi
+
+----------------------------
+
 WEB
 
 * Header Page
@@ -27,7 +152,7 @@ Cara nukar uang
 Install Kommuta/Train di Smartphone
 Peta UI dan sekitar.
 
----------------------------------
+----------------------- Finish -----------------------
 
 Getting to Depok
 From anywhere else in Indonesia
