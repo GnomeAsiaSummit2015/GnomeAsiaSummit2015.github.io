@@ -58,23 +58,23 @@ For train, please booking ticker early. You can book at www.tiket.kereta-api.co.
 
 Cost Train:
 Executive Class destination Gambir Station:
-  From 		Train 				Range Price
-  Bandung 	Argo Parahyangan 	Rp 85.000  - Rp120.000 
-  Jogja 	Taksaka 			Rp 260.000 - Rp 350.000
-  Malang 	Bima 				Rp 400.000 - Rp 535.000
-  Semarang 	Argo Anggrek 		Rp 285.000 - Rp 365.000
-  Surabaya	Bima 				Rp 400.000 - Rp 535.000
+From		Train 				Range Price
+Bandung		Argo Parahyangan 	Rp 85.000  - Rp120.000 
+Jogja		Taksaka				Rp 260.000 - Rp 350.000
+Malang		Bima				Rp 400.000 - Rp 535.000
+Semarang	Argo Anggrek		Rp 285.000 - Rp 365.000
+Surabaya	Bima				Rp 400.000 - Rp 535.000
 
 Economy/Bisnis Class destination Pasar Senen Station: 
-  From 		Train 				Range Price
-  Jogja 	Progo				Rp 50.000
-  Jogja 	Bogowonto			Rp150.000 - Rp220.000
-  Malang    Matarmaja:			Rp 65.000
-  Semarang  Kertajaya			Rp 50.000
-  Semarang  Brantas				Rp 55.000
-  Semarang 	Menoreh				Rp 160.000 - Rp 240.000
-  Surabaya	Gaya Baru Malam		Rp 55.000
-  Surabaya  Gumarang			Rp 180.000 - Rp 240.000
+From		Train				Range Price
+Jogja		Progo				Rp 50.000
+Jogja		Bogowonto			Rp150.000 - Rp220.000
+Malang		Matarmaja			Rp 65.000
+Semarang	Kertajaya			Rp 50.000
+Semarang	Brantas				Rp 55.000
+Semarang	Menoreh				Rp 160.000 - Rp 240.000
+Surabaya	Gaya Baru Malam		Rp 55.000
+Surabaya	Gumarang			Rp 180.000 - Rp 240.000
 
 From anywhere in Jakarta to Venue, Balairung Universitas Indonesia Depok.
 

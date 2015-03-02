@@ -2,10 +2,7 @@ WEB
 
 * Header Page
 * Favicon.ico
-* Schedule
 * Peta
-* Travel (harga tiket)
-* Hotel (detail hotel, cp dll)
 * Eat
 
 Menu
@@ -13,15 +10,15 @@ Menu
 * Live
 
 Page
-* Volunteer, kurang halaman pendaftaran via gdoc
+v * Register, Bikin evenbrite, pendaftaran dan pembayaran.
+v * Location/Venue, butuh foto yang ada dan keterangan. Upload
+v Nunggu!! * Location/map, gambar fix dari aris
+v * Location, butuh foto lokasi dan keterangan. upload
+
 V * Scheedule, Kosongkan sesuai dengan proposal
-* Register, Bikin evenbrite, pendaftaran dan pembayaran.
-* Location/Venue, butuh foto yang ada dan keterangan. Upload
-* Location/Travel, fix harga pesawat (base on wiki)
+V * Location/Travel, fix harga pesawat (base on wiki)
 V * Menambahkan Location/Visa, base on wiki
-Nunggu!! * Location/map, gambar fix dari aris
-* Location/Accomodation, detail hotel
-* Location, butuh foto lokasi dan keterangan. upload
+V * Location/Accomodation, detail hotel
 V * Live, check sample
 V * About Gnome, Add previuos years
 
