@@ -36,6 +36,10 @@ peer RAB
 moviagram :)))
 --------
 peta, :D
+
+Sertifikat
+
+Ukuran Cetak, Fix kan.
 ———————————-----------------------------------------------------
 Persiapan GNOME.ASIA
 
