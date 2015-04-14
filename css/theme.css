@@ -1252,7 +1252,7 @@ nav .container {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 89%;
   height: 100%;
   z-index: 2;
   opacity: 0;
@@ -2301,5 +2301,5 @@ footer.classic .social-profiles {
 /* Table */
 
 table {
-	width: 33,3%;
+	width: 100%;
 }
